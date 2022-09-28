@@ -1,4 +1,4 @@
-# Computer Vision for Automated Defect Detection in a Manufacturing System
+# Automated Defect Detection in a Manufacturing System
 
 Course: Robotic Systems and CIM
 
