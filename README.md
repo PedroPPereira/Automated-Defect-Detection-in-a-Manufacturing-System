@@ -17,7 +17,7 @@
 - 2 Quality Control Stations
 - 1 AGV
 - 1 Operator
-- 3 Products
+- 3 Product Types
 
 
 ---
