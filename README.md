@@ -19,6 +19,28 @@
 - 1 Operator
 - 3 Products
 
+
 ---
 
 ### Demo
+
+<details>
+ <summary>AGV Retrieving Product</summary>
+
+![AGVRetrievingProduct](https://user-images.githubusercontent.com/46992334/193138762-8c831039-292f-42e8-94f3-d2f340b009e9.jpg)
+
+</details>
+
+<details>
+ <summary>Quality Inspection</summary>
+
+![QualityInspection](https://user-images.githubusercontent.com/46992334/193138745-8fcd6b99-67b6-4dd1-8215-4e9ca36cef56.jpg)
+
+</details>
+
+<details>
+ <summary>Defect Product</summary>
+
+![DefectProduct](https://user-images.githubusercontent.com/46992334/193138758-a81261c4-96f1-47a5-b88c-b40f319cf429.jpg)
+
+</details>
