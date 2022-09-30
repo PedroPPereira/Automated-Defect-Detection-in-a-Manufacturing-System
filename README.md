@@ -2,6 +2,8 @@
 
 **Course:** Robotic Systems and CIM
 
+**Specialty Area:** Robotics
+
 **Academic Year:** 2020/21
 
 **Semester:** 1st
