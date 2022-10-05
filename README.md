@@ -1,4 +1,4 @@
-# Automated Defect Detection in a Manufacturing System
+# CNN Automated Defect Detection in a Manufacturing System
 
 **Course:** Robotic Systems and CIM
 
