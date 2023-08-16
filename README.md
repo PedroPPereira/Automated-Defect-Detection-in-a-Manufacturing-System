@@ -24,8 +24,7 @@
 
 ---
 
-### Demo [[link1](https://drive.google.com/file/d/1JSdFWkzBD3QIEtfiSlMu3TVeNTQ1WA5R/view?usp=sharing)] [[link2]
-(https://drive.google.com/file/d/1jd9ZUjX4j_r4PNngeL3nmJt8nirLyMRb/view?usp=sharing)]
+### Demo [[link1](https://drive.google.com/file/d/1JSdFWkzBD3QIEtfiSlMu3TVeNTQ1WA5R/view?usp=sharing)] [[link2](https://drive.google.com/file/d/1jd9ZUjX4j_r4PNngeL3nmJt8nirLyMRb/view?usp=sharing)]
 
 <details>
  <summary>AGV Retrieving Product</summary>
